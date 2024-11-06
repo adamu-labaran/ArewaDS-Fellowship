@@ -5,18 +5,18 @@ I am Adamu Labaran, founder and CEO of Labaran Software Enterprise, an EdTech co
 This Fellowship dedicates all its resources to upskilling marginalized Arewa youth in data science and machine learning.
 
 # ROADMAP
-# Introduction to Data Science
-# Python for Data Science
-# Data Analysis and Visualization
-# Mathematics for Data Science
-# Statistics and Probability
-# Machine Learning
-# Deep Learning
-# Natural Language Processing (NLP)
-# Computer Vision
-# Big Data and Data Engineering
-# Model Deployment and MLOps
-# Additional Resources
+Introduction to Data Science
+Python for Data Science
+Data Analysis and Visualization
+Mathematics for Data Science
+Statistics and Probability
+Machine Learning
+Deep Learning
+Natural Language Processing (NLP)
+Computer Vision
+Big Data and Data Engineering
+Model Deployment and MLOps
+Additional Resources
 
 
 # 1. Introduction to Data Science
@@ -24,14 +24,14 @@ Data science combines programming, statistics, and domain expertise to extract i
 
 # 2. Python for Data Science
 Skills:
-# Basics: Variables, data types, loops, functions, and error handling.
+Basics: Variables, data types, loops, functions, and error handling.
 Libraries: Learn popular libraries like:
 NumPy: Numerical operations.
 Pandas: Data manipulation and analysis.
 Matplotlib & Seaborn: Data visualization.
 Best Practices: Understand coding best practices, code readability, and debugging.
 
-# Resources: Python.org, Real Python
+Resources: Python.org, Real Python
 
 # 3. Data Analysis and Visualization
 Skills:
@@ -102,4 +102,4 @@ Resources: MLflow, Kubeflow
 Kaggle: Practice on real datasets and participate in competitions.
 GitHub: Follow data science projects and open-source code.
 Books: "Data Science from Scratch" by Joel Grus, "Python Machine Learning" by Sebastian Raschka.
-Communities: Join data science communities on Reddit, Stack Overflow, and LinkedIn to network and find mentors.
+Communities: Data science communities such as Arewa Data Science Fellowship, Data Science network, Reddit, Stack Overflow, and LinkedIn to network and find mentors.
