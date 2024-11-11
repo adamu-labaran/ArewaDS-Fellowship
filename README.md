@@ -17,7 +17,7 @@ __Introduction to Data Science__
 8. Computer Vision
 9. Big Data and Data Engineering
 10. Model Deployment and MLOps
-11. Additional Resources: Data Camp, kaggle, Free Code Camp, w3Schools etc. 
+11. Additional Resources: [Data Camp](https://app.datacamp.com/), [kaggle](https://www.kaggle.com/), [Free Code Camp](https://www.freecodecamp.org/), [w3Schools](https://www.w3schools.com/) etc. 
 
 # 1. Introduction to Data Science 🌐
 Data science combines programming, statistics, and domain expertise to extract insights from data. Typical data science projects involve collecting, cleaning, analyzing, and visualizing data to make data-driven decisions or build machine learning models.
@@ -37,7 +37,7 @@ Matplotlib & Seaborn: Data visualization.
 
 Best Practices: Understand coding best practices, code readability, and debugging.
 
-Resources: Python.org, Real Python
+Resources: [Python.org](https://www.python.org/), [Real Python](https://realpython.com/)
 
 # 3. Data Analysis and Visualization
 Skills:
