@@ -1,36 +1,25 @@
 # ABOUT ME:
 I am Adamu Labaran, founder and CEO of Labaran Software Enterprise, an EdTech community initiative for upskilling youth and teenagers in the latest and trending technologies such as software engineering principles, Python programming, data science, and machine learning.
 
-# ArewaDS-Fellowship
+## ArewaDS-Fellowship
 This Fellowship dedicates all its resources to upskilling marginalized Arewa youth in data science and machine learning.
 
-# ROADMAP
-Introduction to Data Science
+### ROADMAP
+__Introduction to Data Science__
 
-Python for Data Science
+1. Python for Data Science
+2. Data Analysis and Visualization
+3. Mathematics for Data Science
+4. Statistics and Probability
+5. Machine Learning
+6. Deep Learning
+7. Natural Language Processing (NLP)
+8. Computer Vision
+9. Big Data and Data Engineering
+10. Model Deployment and MLOps
+11. Additional Resources: Data Camp, kaggle, Free Code Camp, w3Schools etc. 
 
-Data Analysis and Visualization
-
-Mathematics for Data Science
-
-Statistics and Probability
-
-Machine Learning
-
-Deep Learning
-
-Natural Language Processing (NLP)
-
-Computer Vision
-
-Big Data and Data Engineering
-
-Model Deployment and MLOps
-
-Additional Resources
-
-
-# 1. Introduction to Data Science
+# 1. Introduction to Data Science 🌐
 Data science combines programming, statistics, and domain expertise to extract insights from data. Typical data science projects involve collecting, cleaning, analyzing, and visualizing data to make data-driven decisions or build machine learning models.
 
 # 2. Python for Data Science
