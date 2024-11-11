@@ -1,5 +1,5 @@
 # ABOUT ME:
-I am Adamu Labaran, founder and CEO of Labaran Software Enterprise, an EdTech community initiative for upskilling youth and teenagers in the latest and trending technologies such as software engineering principles, Python programming, data science, and machine learning.
+I am Adamu Labaran, beneficiary of Arewa data science fellowship, founder and CEO of Labaran Software Enterprise, an EdTech community initiative for upskilling youth and teenagers in the latest and trending technologies such as software engineering principles, Python programming, data science, and machine learning.
 
 ## ArewaDS-Fellowship
 This Fellowship dedicates all its resources to upskilling marginalized Arewa youth in data science and machine learning.
